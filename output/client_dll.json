@@ -14451,7 +14451,7 @@
           },
           {
             "name": "m_vecStressPositionA",
-            "type": "NetworkVarNames",
+            "type": "NetworkVarNames", 
             "type_name": "Vector2D"
           },
           {
